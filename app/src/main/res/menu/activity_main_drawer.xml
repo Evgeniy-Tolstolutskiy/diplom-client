@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <!--<item-->
+            <!--android:id="@+id/nav_camara"-->
+            <!--android:icon="@drawable/ic_action_import"-->
+            <!--android:title="@string/import_item" />-->
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@android:drawable/ic_menu_gallery"
+            android:title="@string/compute_route_item" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@android:drawable/ic_menu_slideshow"
+            android:title="@string/select_city_item" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@android:drawable/ic_menu_manage"
+            android:title="@string/select_transport_item" />
+        <item
+            android:id="@+id/nav_additional_info"
+            android:icon="@android:drawable/btn_plus"
+            android:title="@string/view_additional_info" />
+        <item
+            android:id="@+id/nav_clear"
+            android:icon="@android:drawable/btn_plus"
+            android:title="@string/clear" />
+    </group>
+
+</menu>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RouteOptimization</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="compute_route_item">Вычислить маршрут</string>
+    <string name="view_additional_info">Посмотреть дополнительную информацию</string>
+    <string name="tools_item">Tools</string>
+    <string name="communicate_item">Communicate</string>
+    <string name="clear">Очистить</string>
+    <string name="select_transport_item">Выбрать транспорт</string>
+    <string name="select_city_item">Выбрать город</string>
+</resources>

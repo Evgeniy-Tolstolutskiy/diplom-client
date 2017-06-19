@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "812229289760",
+    "firebase_url": "https://helical-sol-167111.firebaseio.com",
+    "project_id": "helical-sol-167111",
+    "storage_bucket": "helical-sol-167111.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812229289760:android:9e144e9d9f72513d",
+        "android_client_info": {
+          "package_name": "com.diplom.routeoptimization"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812229289760-tec0tpif38mdq9vq0bd7c11a0phmdd9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diplom.routeoptimization",
+            "certificate_hash": "ab9884c4d2c4e8976c6ad4b0bcaf32c85fbd0bcf"
+          }
+        },
+        {
+          "client_id": "812229289760-me36c9ba81ocj1vl7avdj8c1gdseb8mo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXeexwHb8-lgA8NO6LaECvZ2VJvywqQhw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812229289760-me36c9ba81ocj1vl7avdj8c1gdseb8mo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
